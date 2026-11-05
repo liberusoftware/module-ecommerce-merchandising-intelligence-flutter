@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-merchandising-intelligence-flutter",
+  "capabilityKey": "planned:ecommerce:merchandising-intelligence",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_merchandising_intelligence_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/merchandising-intelligence.md",
+  "presentationPlan": "projects/ecommerce/flutter/merchandising-intelligence.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
